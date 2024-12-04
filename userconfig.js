@@ -17,15 +17,15 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-9.gif",
+      background_url: "src/img/banners/cbg-4.gif",
       categories: [
         {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "mymind",
+              url: "https://access.mymind.com/everything",
+              icon: "IconBrain",
               icon_color: palette.green,
             },
             {
