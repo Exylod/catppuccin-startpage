@@ -25,7 +25,7 @@ const default_config = {
             {
               name: "mymind",
               url: "https://access.mymind.com/everything",
-              icon: "brain",
+              icon: "brand-databricks",
               icon_color: palette.green,
             },
             {
